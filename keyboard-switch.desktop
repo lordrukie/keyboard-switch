@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Keyboard Switch
+Icon=/path/key-enable.png
+Exec=bash keyboard-switch.sh
+Path=/path/
+NoDisplay=false
+Categories=Utility;
+StartupNotify=false
+Terminal=false
