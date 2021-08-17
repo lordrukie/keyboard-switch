@@ -1,6 +1,6 @@
 #!/bin/bash
-dir="/tmp/keyboard-switch/"
-regexDir="\/tmp\/keyboard-swtich\/" # Equal to /opt/keyboard-switch/
+dir="/opt/keyboard-switch/"
+regexDir="\/opt\/keyboard-swtich\/" # Equal to /opt/keyboard-switch/
 
 mkdir -p $dir
 cp key-disable.png $dir
